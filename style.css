@@ -374,10 +374,18 @@ footer {
   }
 }
 
-@media (max-width: 360px) {
+@media (max-width: 420px) {
   .hero {
     .texto {
-      width: 68%;
+      width: 74%;
+    }
+  }
+}
+
+@media (max-width: 395px) {
+  .hero {
+    .texto {
+      width: 60%;
     }
   }
 }
